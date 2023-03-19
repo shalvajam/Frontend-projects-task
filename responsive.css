@@ -1,0 +1,28 @@
+@media only screen and (max-width: 375px){
+    .container{
+        width: 100%;
+        height:inherit;
+        padding: 20px;
+    }
+    .qrcode{
+        width: 95%;
+       
+    }
+    .img{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: auto;
+        height: auto;
+    }
+    .qrcode img{
+        width: 90%;
+        height: 70%;
+    }
+    p{
+    width: 95%;
+    }
+    h1{
+        width: 95%;   
+    }
+} 
